@@ -7,4 +7,5 @@ microserviceBuilderPipeline {
   chartFolder = 'chart'
   deployBranch = 'master'
   namespace = 'default'
+  helmRelease = 'mq4wayclusternpp'
 }
